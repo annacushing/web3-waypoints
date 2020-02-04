@@ -38,6 +38,8 @@ function burgerClicked(){
         animateNavbackground();
         // reset the var to true, since the naviagion is now open
         navigationIsOpen = true;
+
+        
     }else{
         console.log("back to burger after click");
         rightArrowToBurger.invalidate().restart();
