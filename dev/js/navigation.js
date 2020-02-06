@@ -1,14 +1,10 @@
-// when a link is clicked, force the menu to reverse all the animations
-$('nav ul li').on("click", burgerClicked);
 
+var isNavVisible = false;
 
-var contentSection = ["hero", "section-1", "section-2", "hero-2"];
+var navigationWidth = $("nav").width();
 
-
-function hideNav(){
-    // make sure you hide the nav once the close or a link has been clicked / tapped
-    $("nav").removeClass("show-nav");
-
-    // call the reset function for the burger to make sure the arrows are reset
-    defaultValuesForBurger();
-}
+// listen for the window to resize and reset the nav width var
+$( window ).resize(function() {
+    console.log(navigationWidth);
+    navigationWidth = $("nav").width();
+});

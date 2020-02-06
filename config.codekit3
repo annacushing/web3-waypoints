@@ -19,44 +19,88 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/deploy/img/hero-2.jpg": {
+	"/deploy/img/believe/believe.jpg": {
 		"ft": 16384,
-		"iS": 187475,
+		"iS": 93713,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/hero-2.jpg",
+		"oAP": "/deploy/img/believe/believe.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/hero.jpg": {
+	"/deploy/img/circle/circle.jpg": {
 		"ft": 16384,
-		"iS": 77905,
+		"iS": 76571,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/hero.jpg",
+		"oAP": "/deploy/img/circle/circle.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/deploy/img/hero.svg": {
+	"/deploy/img/footer/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/deploy/img/hero.svg",
+		"oAP": "/deploy/img/footer/logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/deploy/img/section-2/section-2.jpg": {
+	"/deploy/img/gallery/gallery-1.jpg": {
 		"ft": 16384,
-		"iS": 366645,
+		"iS": 167348,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/deploy/img/section-2/section-2.jpg",
+		"oAP": "/deploy/img/gallery/gallery-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/gallery/gallery-2.jpg": {
+		"ft": 16384,
+		"iS": 53038,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/gallery/gallery-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/gallery/gallery-3.jpg": {
+		"ft": 16384,
+		"iS": 138657,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/gallery/gallery-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/heroes/hero-2.jpg": {
+		"ft": 16384,
+		"iS": 393240,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/heroes/hero-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/heroes/hero.jpg": {
+		"ft": 16384,
+		"iS": 358264,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/heroes/hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -70,6 +114,17 @@
 		"oAP": "/deploy/index.html",
 		"oF": 0
 		},
+	"/deploy/js/DrawSVGPlugin.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/deploy/js/DrawSVGPlugin.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/deploy/js/scripts-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -80,6 +135,46 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/dev/believe.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/dev/believe.html",
+		"oF": 0
+		},
+	"/dev/circle.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/dev/circle.html",
+		"oF": 0
+		},
+	"/dev/everything.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/dev/everything.html",
+		"oF": 0
+		},
+	"/dev/footer.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/dev/footer.html",
+		"oF": 0
+		},
+	"/dev/gallery.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/dev/gallery.html",
+		"oF": 0
 		},
 	"/dev/header.kit": {
 		"cB": 0,
@@ -124,24 +219,24 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/dev/js/burger/burger-mouseEnter.js": {
+	"/dev/js/burger/burger-mouseenter.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "/dev/js/burger/burger-mouseEnter-min.js",
+		"oAP": "/dev/js/burger/burger-mouseenter-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/dev/js/burger/burger-mouseLeave.js": {
+	"/dev/js/burger/burger-mouseleave.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "/dev/js/burger/burger-mouseLeave-min.js",
+		"oAP": "/dev/js/burger/burger-mouseleave-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -164,39 +259,6 @@
 		"mi": 1,
 		"oA": 1,
 		"oAP": "/dev/js/navigation-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/dev/js/navigationAnimation.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/dev/js/navigationAnimation-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/dev/js/navigationBackground.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/dev/js/navigationBackground-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/dev/js/scripts-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/dev/js/scripts-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -350,6 +412,58 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/dev/scss/sections/_believe.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dev/scss/sections/_believe.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/dev/scss/sections/_circle.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dev/scss/sections/_circle.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/dev/scss/sections/_everything.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dev/scss/sections/_everything.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/dev/scss/sections/_gallery.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dev/scss/sections/_gallery.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/dev/scss/sections/_heroes.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -359,32 +473,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/dev/scss/sections/_heroes.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/dev/scss/sections/_section-1.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/dev/scss/sections/_section-1.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/dev/scss/sections/_section-2.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/dev/scss/sections/_section-2.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -401,22 +489,6 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
-		},
-	"/dev/section-1.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/dev/section-1.html",
-		"oF": 0
-		},
-	"/dev/section-2.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/dev/section-2.html",
-		"oF": 0
 		},
 	"/LICENSE": {
 		"cB": 0,
